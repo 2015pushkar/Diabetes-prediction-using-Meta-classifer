@@ -1,4 +1,4 @@
-# _Diabetes-prediction-using-Meta-classifer_
+# _Diabetes prediction using Meta classifer_
 
 Implemented various classifiers such as k-nearest neighbors,Random Forest, Gaussian 
 Naive Bayes, Neural Networks, Light GBM, AdaBoost etc.., and measure their 
